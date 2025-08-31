@@ -24,3 +24,8 @@ It was created for learning purposes and basic testing of Telegram bots. The cod
    ```bash
    git clone https://github.com/Daroya/chat-bot.git
    cd chat-bot
+
+2. (Optional) Create a virtual environment:
+python -m venv venv
+source venv/bin/activate   # Linux / Mac
+venv\Scripts\activate      # Windows
